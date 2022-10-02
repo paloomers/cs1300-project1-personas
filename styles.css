@@ -1,0 +1,33 @@
+img {
+    width: 50rem; 
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    padding: .5rem;
+
+}
+#person{
+    display: flex;
+    justify-content: center;
+   
+}
+.persona{
+    width: 30rem;
+   
+}
+.interface{
+    width: 30rem;
+}
+#content {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+    
+body{
+    background-color: plum;
+    margin: 4rem;
+}
+#caption{
+    text-align: center; 
+    padding: 0;
+    margin: 0;
+}
